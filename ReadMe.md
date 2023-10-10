@@ -14,6 +14,23 @@ sofifa Site에서 시각화 분석 프로젝트
 - pandas
 - plotly
 
+```python
+from selenium import webdriver
+from bs4 import BeautifulSoup
+import pandas as pd
+import re
+import pandas as pd
+import numpy as np
+import folium
+import plotly.express as px
+from folium.plugins import HeatMap
+import matplotlib.pyplot as plt
+from PIL import Image
+from wordcloud import WordCloud
+from plotly.subplots import make_subplots
+import plotly.graph_objects as go
+```
+
 
 ## 시작 가이드
 
