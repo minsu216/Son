@@ -41,5 +41,5 @@ import plotly.graph_objects as go
 - plotly 5.9.0
 - bs4 4.12.2
 - webdriver 4.12.0
-- word_cloud = 1.9.2
-- Image = 9.4.0
+- word_cloud 1.9.2
+- Image 9.4.0
