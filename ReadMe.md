@@ -4,15 +4,16 @@ sofifa Site에서 시각화 분석 프로젝트
 동아시아 국가 기준으로 fifa 카드 스탯을 통해
 시각화 분석 프로젝트
 ## 개발 기간
-- 2023.09. ~
+- 2023.09. ~ 2023.10
 
 ## 개발환경
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 
+<img src="https://img.shields.io/badge/pandas-3776AB?style=for-the-badge&logo=pandas&logoColor=red">
+
+
 ## 주요 기능
-- folium
-- pandas
-- plotly
+
 
 ```python
 from selenium import webdriver
